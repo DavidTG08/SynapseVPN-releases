@@ -1,9 +1,14 @@
 {
-  "version": "1.0.5",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.5/SynapseVPN-Android-1.0.5.apk",
-  "size": 8105297,
+  "version": "1.0.6",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.6/SynapseVPN-Android-1.0.6.apk",
+  "size": 8107962,
   "date": "2026-10-30",
   "releases": [
+    {
+      "version": "1.0.6",
+      "date": "2026-10-30",
+      "notes": "- Codes are typed in capitals and the dash is added by itself (K7Q2-9XMB).\n- New: Dark mode in Profile → Settings. Light stays the default.\n- Updates are found faster: every 10 minutes, when you open the app and when you tap the bell.\n- Security: only SynapseVPN's own screens can talk to the app, nobody can attach a debugger, and other devices on the Wi-Fi can't fake a \"Meshnet off\" for someone else or flood the device list."
+    },
     {
       "version": "1.0.5",
       "date": "2026-10-30",
