@@ -1,9 +1,14 @@
 {
-  "version": "1.0.3",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.3/SynapseVPN-Android-1.0.3.apk",
-  "size": 8079609,
+  "version": "1.0.4",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.4/SynapseVPN-Android-1.0.4.apk",
+  "size": 8103229,
   "date": "2026-10-30",
   "releases": [
+    {
+      "version": "1.0.4",
+      "date": "2026-10-30",
+      "notes": "- Public Meshnet (the new default): everyone on the same Wi-Fi with SynapseVPN and Meshnet on shows up, and you can send each other files without a code. You still accept or decline every file, and the files are encrypted on the way.\n- Private Meshnet: one switch (on the Meshnet page or in Profile → Settings). Then only devices you linked with a code can send you files.\n- New: Tunnels, under Meshnet. Create a tunnel and you're its host, like a WireGuard server, with your own interface (keys, address, listen port) and a code. Others on the same Wi-Fi join it with the code. It's a private network between the devices in the tunnel.\n- Tunnel details like WireGuard's window: public and private key, address, listen port, and every peer's allowed IPs, endpoint, keepalive, latest handshake and live transfer."
+    },
     {
       "version": "1.0.3",
       "date": "2026-10-30",
