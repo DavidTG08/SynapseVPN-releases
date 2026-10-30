@@ -1,9 +1,14 @@
 {
-  "version": "1.0.2",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.2/SynapseVPN-Android-1.0.2.apk",
-  "size": 8083481,
+  "version": "1.0.3",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.3/SynapseVPN-Android-1.0.3.apk",
+  "size": 8079609,
   "date": "2026-10-30",
   "releases": [
+    {
+      "version": "1.0.3",
+      "date": "2026-10-30",
+      "notes": "- Meshnet works like WireGuard again: devices only connect after you link them with a code, and only devices on the same Wi-Fi (the same router) can see each other. Nothing is linked automatically through your account, and SynapseVPN no longer opens ports on your router.\n- Details still shows each linked device's latest handshake and live transfer."
+    },
     {
       "version": "1.0.2",
       "date": "2026-10-30",
