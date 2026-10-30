@@ -1,9 +1,14 @@
 {
-  "version": "1.0.1",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.1/SynapseVPN-Android-1.0.1.apk",
-  "size": 8075073,
+  "version": "1.0.2",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.2/SynapseVPN-Android-1.0.2.apk",
+  "size": 8083481,
   "date": "2026-10-30",
   "releases": [
+    {
+      "version": "1.0.2",
+      "date": "2026-10-30",
+      "notes": "- My devices, anywhere: your phone and PCs signed in to the same SynapseVPN account now link in Meshnet by themselves. No code, nothing to type: SynapseVPN fills in all the WireGuard settings (keys, addresses, endpoints).\n- It works over the internet too, for example your phone on mobile data and your PC at home, even when your internet provider shares one address between customers (CGNAT). SynapseVPN punches a direct, encrypted path between your devices, without any server in between.\n- Your phone reaches your PCs from anywhere; just keep Meshnet on.\n- New Details (on the VPN card and on each Meshnet device), like WireGuard's own screen: public keys, endpoint, allowed IPs, keepalive, latest handshake and live transfer, updated every second.\n- The first update check after connecting no longer waits 40 seconds."
+    },
     {
       "version": "1.0.1",
       "date": "2026-10-30",
