@@ -1,0 +1,18 @@
+{
+  "version": "1.0.1",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.1/SynapseVPN-Android-1.0.1.apk",
+  "size": 8075073,
+  "date": "2026-10-30",
+  "releases": [
+    {
+      "version": "1.0.1",
+      "date": "2026-10-30",
+      "notes": "- Updates are found reliably: SynapseVPN checks for new versions in a way that also works while the VPN is on.\n- If checking for updates fails, the bell says so and has a Check again button."
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-10-30",
+      "notes": "- SynapseVPN is now on Android: one tap secures your phone with WireGuard over Cloudflare WARP, the same network as on your PC.\n- Meshnet works between your phone and your PCs: link with the same 8-character code, see which devices are online, and send files both ways. Received files go to Downloads › SynapseVPN.\n- Threat protection blocks dangerous sites, trackers and ads in every app while the VPN is on.\n- Link cleaner: share a link to SynapseVPN (or paste it) to remove tracking parts like utm_, fbclid and si=.\n- Dark Web Monitor checks your emails every day and tells you about new breaches. Check any password safely.\n- Security check-up for your phone: screen lock, security updates, developer options and more. Plus a ping test.\n- Sign in with your SynapseVPN account; your choices and statistics follow you between your phone and PCs.\n- Updates download inside the app."
+    }
+  ]
+}
