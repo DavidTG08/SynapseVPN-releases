@@ -1,9 +1,14 @@
 {
-  "version": "1.0.4",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.4/SynapseVPN-Android-1.0.4.apk",
-  "size": 8103229,
+  "version": "1.0.5",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.5/SynapseVPN-Android-1.0.5.apk",
+  "size": 8105297,
   "date": "2026-10-30",
   "releases": [
+    {
+      "version": "1.0.5",
+      "date": "2026-10-30",
+      "notes": "- Meshnet and Tunnels now each have their own tab, so everything about sharing files is in one place and everything about tunnels in the other.\n- When a device turns Meshnet off, it disappears from the others right away (it used to stay for up to half a minute).\n- Fixed: the Private Meshnet switch didn't show or work properly."
+    },
     {
       "version": "1.0.4",
       "date": "2026-10-30",
