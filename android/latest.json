@@ -1,9 +1,14 @@
 {
-  "version": "1.0.6",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.6/SynapseVPN-Android-1.0.6.apk",
-  "size": 8107962,
-  "date": "2026-10-30",
+  "version": "1.0.7",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.7/SynapseVPN-Android-1.0.7.apk",
+  "size": 8108142,
+  "date": "2026-10-31",
   "releases": [
+    {
+      "version": "1.0.7",
+      "date": "2026-10-31",
+      "notes": "- Fixed: Roblox and other apps could get stuck loading with the VPN on. Blocking ads and trackers now uses Control D instead of AdGuard DNS, which answered very slowly through the VPN (often over a second, sometimes not at all). Looking up 30 sites at once went from about 1.5 s to about 0.15 s.\n- Ads, trackers, malware and phishing are still blocked."
+    },
     {
       "version": "1.0.6",
       "date": "2026-10-30",
