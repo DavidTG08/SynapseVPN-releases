@@ -1,9 +1,14 @@
 {
-  "version": "1.0.7",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.7/SynapseVPN-Android-1.0.7.apk",
-  "size": 8108142,
-  "date": "2026-10-31",
+  "version": "1.0.8",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.8/SynapseVPN-Android-1.0.8.apk",
+  "size": 8111726,
+  "date": "2026-11-02",
   "releases": [
+    {
+      "version": "1.0.8",
+      "date": "2026-11-02",
+      "notes": "- Tunnels: when the host removes you or deletes the tunnel, you're taken out of it within about 15 seconds and told why. Leaving a tunnel removes you from the host's list."
+    },
     {
       "version": "1.0.7",
       "date": "2026-10-31",
