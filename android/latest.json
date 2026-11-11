@@ -1,9 +1,14 @@
 {
-  "version": "1.0.8",
-  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.8/SynapseVPN-Android-1.0.8.apk",
-  "size": 8111726,
-  "date": "2026-11-02",
+  "version": "1.0.9",
+  "apk": "https://github.com/DavidTG08/SynapseVPN-releases/releases/download/android-v1.0.9/SynapseVPN-Android-1.0.9.apk",
+  "size": 8112126,
+  "date": "2026-11-11",
   "releases": [
+    {
+      "version": "1.0.9",
+      "date": "2026-11-11",
+      "notes": "- Fixed: opening the app while the VPN was on restarted the VPN (it showed Protected, dropped and connected again). It now stays connected.\n- With only Meshnet on, the app says the VPN is off (Android itself still shows its key symbol for Meshnet, as for any app that uses a VPN connection)."
+    },
     {
       "version": "1.0.8",
       "date": "2026-11-02",
